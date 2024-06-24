@@ -1,4 +1,4 @@
-# create-vm
+# Utilizando IaC para criar e configurar VMs no ESXI
 Criando VMs no VMware via IaC utilizando o Terraform.
 
 # Ferramentas utilizanda para comtrução 
@@ -7,6 +7,6 @@ Criando VMs no VMware via IaC utilizando o Terraform.
 - TerraGrun
 - VMware ESXI
 
-# Provider utilizado
+# Provider Utilizado
 - vsphere hashicorp/vsphere 2.8.1
   
